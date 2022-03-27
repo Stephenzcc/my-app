@@ -1,8 +1,8 @@
 import ReactDOM from "react-dom";
 // import App from "./D2App9";
 import Router from "./router/index.jsx";
-// import { Provider } from "react-redux";
-// import store from "./store";
+import { Provider } from "react-redux";
+import store from "./store";
 
 ReactDOM.render(
   // <Provider store={store}>
